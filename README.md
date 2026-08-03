@@ -1,5 +1,5 @@
 # leetcode-problems
-leetcode problems
+Documenting my LeetCode practice with well-structured Python solutions, algorithm explanations, and complexity analysis to strengthen problem-solving skills.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
