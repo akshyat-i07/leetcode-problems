@@ -24,6 +24,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
+## Array
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
