@@ -21,6 +21,7 @@
 | [0796-rotate-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/akshyat-i07/leetcode-problems/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -32,6 +33,7 @@
 | [0013-roman-to-integer](https://github.com/akshyat-i07/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
