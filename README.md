@@ -18,6 +18,7 @@
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/akshyat-i07/leetcode-problems/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
@@ -50,6 +51,7 @@
 | [0125-valid-palindrome](https://github.com/akshyat-i07/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0344-reverse-string) |
+| [0696-count-binary-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0917-reverse-only-letters](https://github.com/akshyat-i07/leetcode-problems/tree/master/0917-reverse-only-letters) |
 ## Stack
 |  |
