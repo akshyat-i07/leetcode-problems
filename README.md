@@ -73,6 +73,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0136-single-number) |
 | [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
