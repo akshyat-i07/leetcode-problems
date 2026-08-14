@@ -6,8 +6,8 @@ class Solution:
             if i==0:
                 if nums[i]>nums[i+1]:
                     return i
-            if i==len(nums)-1:
+            elif i==len(nums)-1:
                 if nums[i]>nums[i-1]:
                     return i
-            if nums[i]>nums[i+1] and nums[i]>nums[i-1]:
+            elif nums[i]>nums[i+1] and nums[i]>nums[i-1]:
                 return i
