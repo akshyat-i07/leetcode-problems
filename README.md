@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0162-find-peak-element) |
 | [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
