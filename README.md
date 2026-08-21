@@ -38,6 +38,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshyat-i07/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akshyat-i07/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/akshyat-i07/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/akshyat-i07/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/akshyat-i07/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0696-count-binary-substrings) |
@@ -132,6 +134,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/akshyat-i07/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/akshyat-i07/leetcode-problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
