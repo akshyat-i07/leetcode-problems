@@ -10,16 +10,12 @@ class Solution:
 
         current=head
         prev= None
-        nex=head.next
 
         while current!=None:
+            nex=current.next
             current.next=prev
             prev=current
             current=nex
-            if nex==None:
-                continue
-            else:
-                nex=current.next
         head=prev
         return head
 
