@@ -9,9 +9,9 @@ class Solution:
             return head
         odd=head
         even=head.next
-        even_head=head.next
+        even_head=even
 
-        while even!=None and even.next!=None:
+        while even and even.next:
             odd.next=odd.next.next
             odd=odd.next
             even.next=even.next.next
