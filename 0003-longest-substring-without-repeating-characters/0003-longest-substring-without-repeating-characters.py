@@ -6,9 +6,8 @@ class Solution:
             for j in range(i,len(s)):
                 if s[j] in new:
                     break
-                new+=s[j]
+                new=s[i:j+1]
                 maximum=max(maximum,len(new))
         return maximum
-                
         
         
