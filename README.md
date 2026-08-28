@@ -126,6 +126,7 @@
 | [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/akshyat-i07/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/akshyat-i07/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Binary Search
 |  |
@@ -172,4 +173,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/akshyat-i07/leetcode-problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
