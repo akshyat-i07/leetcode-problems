@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akshyat-i07/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
 | [1903-largest-odd-number-in-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -14,6 +15,7 @@
 | [0013-roman-to-integer](https://github.com/akshyat-i07/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/akshyat-i07/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/akshyat-i07/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0205-isomorphic-strings) |
@@ -121,6 +123,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/akshyat-i07/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshyat-i07/leetcode-problems/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
