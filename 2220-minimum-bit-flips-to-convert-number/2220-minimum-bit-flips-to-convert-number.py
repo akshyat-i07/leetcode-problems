@@ -1,19 +1,13 @@
 class Solution:
     def minBitFlips(self, start: int, goal: int) -> int:
         result=start^goal
-        binary=""
-        while result>0:
-            if result%2==1:
-                binary+="1"
-            else:
-                binary+="0"
-            result=result//2
-        binary=binary[::-1]
         count=0
-        for i in range(len(binary)):
-            if binary[i]=="1":
-                count+=1
+        while result:
+            result=result & (result-1)
+            count+=1
         return count
+
+        
 
 
 
