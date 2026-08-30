@@ -45,6 +45,7 @@
 | [0141-linked-list-cycle](https://github.com/akshyat-i07/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/akshyat-i07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -96,6 +97,7 @@
 | [0137-single-number-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/akshyat-i07/leetcode-problems/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshyat-i07/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
 | ------- |
