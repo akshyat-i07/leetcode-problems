@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/akshyat-i07/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/akshyat-i07/leetcode-problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshyat-i07/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0136-single-number) |
@@ -187,9 +188,11 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akshyat-i07/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/akshyat-i07/leetcode-problems/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akshyat-i07/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshyat-i07/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
