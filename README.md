@@ -20,6 +20,7 @@
 | [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/akshyat-i07/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0344-reverse-string) |
@@ -36,6 +37,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0179-largest-number) |
 | [1903-largest-odd-number-in-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/akshyat-i07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -101,6 +104,7 @@
 | [0137-single-number-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/akshyat-i07/leetcode-problems/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
