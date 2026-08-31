@@ -59,6 +59,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/akshyat-i07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -68,6 +69,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akshyat-i07/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akshyat-i07/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
@@ -93,6 +95,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/akshyat-i07/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/akshyat-i07/leetcode-problems/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshyat-i07/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0137-single-number-ii) |
