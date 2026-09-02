@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -95,6 +96,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/akshyat-i07/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/akshyat-i07/leetcode-problems/tree/master/0078-subsets) |
