@@ -9,7 +9,7 @@ class Solution:
             return head
         odd=head
         even=head.next
-        even_head=even
+        even_head=head.next
 
         while even and even.next:
             odd.next=odd.next.next
