@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/akshyat-i07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -78,6 +79,7 @@
 | [0125-valid-palindrome](https://github.com/akshyat-i07/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akshyat-i07/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshyat-i07/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0344-reverse-string) |
@@ -174,6 +176,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/akshyat-i07/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshyat-i07/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0206-reverse-linked-list) |
@@ -204,6 +207,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshyat-i07/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/akshyat-i07/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akshyat-i07/leetcode-problems/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
@@ -211,4 +215,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshyat-i07/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshyat-i07/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
