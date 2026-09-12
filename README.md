@@ -15,6 +15,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshyat-i07/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akshyat-i07/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/akshyat-i07/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/akshyat-i07/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
@@ -100,6 +101,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akshyat-i07/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/akshyat-i07/leetcode-problems/tree/master/0053-maximum-subarray) |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akshyat-i07/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
