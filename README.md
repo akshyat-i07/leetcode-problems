@@ -91,6 +91,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/akshyat-i07/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -164,6 +165,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/akshyat-i07/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -227,4 +229,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshyat-i07/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/akshyat-i07/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
