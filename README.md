@@ -16,6 +16,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshyat-i07/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akshyat-i07/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akshyat-i07/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/akshyat-i07/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
@@ -91,6 +92,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/akshyat-i07/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshyat-i07/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
@@ -98,6 +100,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
