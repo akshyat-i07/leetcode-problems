@@ -31,6 +31,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/akshyat-i07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/akshyat-i07/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/akshyat-i07/leetcode-problems/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -87,6 +88,7 @@
 | [0234-palindrome-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/akshyat-i07/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/akshyat-i07/leetcode-problems/tree/master/0917-reverse-only-letters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -97,6 +99,7 @@
 | [0225-implement-stack-using-queues](https://github.com/akshyat-i07/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshyat-i07/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/akshyat-i07/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -218,6 +221,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/akshyat-i07/leetcode-problems/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
 | ------- |
