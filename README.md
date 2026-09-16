@@ -84,6 +84,7 @@
 | [0148-sort-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshyat-i07/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -95,6 +96,7 @@
 | [0020-valid-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/akshyat-i07/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshyat-i07/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -190,6 +192,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/akshyat-i07/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -201,6 +204,7 @@
 | [0203-remove-linked-list-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/akshyat-i07/leetcode-problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
