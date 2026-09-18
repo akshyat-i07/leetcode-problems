@@ -100,6 +100,7 @@
 | [0225-implement-stack-using-queues](https://github.com/akshyat-i07/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshyat-i07/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/akshyat-i07/leetcode-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/akshyat-i07/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -125,6 +126,7 @@
 | [0162-find-peak-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0682-baseball-game](https://github.com/akshyat-i07/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/akshyat-i07/leetcode-problems/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/akshyat-i07/leetcode-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/akshyat-i07/leetcode-problems/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
