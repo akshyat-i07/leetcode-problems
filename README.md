@@ -37,6 +37,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [3174-clear-digits](https://github.com/akshyat-i07/leetcode-problems/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0844-backspace-string-compare](https://github.com/akshyat-i07/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshyat-i07/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/akshyat-i07/leetcode-problems/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/akshyat-i07/leetcode-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/akshyat-i07/leetcode-problems/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/akshyat-i07/leetcode-problems/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
