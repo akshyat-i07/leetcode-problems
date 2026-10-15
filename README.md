@@ -52,6 +52,7 @@
 | [0141-linked-list-cycle](https://github.com/akshyat-i07/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshyat-i07/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/akshyat-i07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -128,6 +130,7 @@
 | [0137-single-number-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/akshyat-i07/leetcode-problems/tree/master/0682-baseball-game) |
@@ -136,6 +139,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/akshyat-i07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -236,6 +240,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshyat-i07/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/akshyat-i07/leetcode-problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/akshyat-i07/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akshyat-i07/leetcode-problems/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
@@ -257,4 +262,8 @@
 | [0155-min-stack](https://github.com/akshyat-i07/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshyat-i07/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshyat-i07/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
