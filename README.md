@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/akshyat-i07/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/akshyat-i07/leetcode-problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/akshyat-i07/leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/akshyat-i07/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [1903-largest-odd-number-in-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -56,6 +57,7 @@
 | [0205-isomorphic-strings](https://github.com/akshyat-i07/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshyat-i07/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/akshyat-i07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshyat-i07/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -73,6 +75,7 @@
 | [0169-majority-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/akshyat-i07/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/akshyat-i07/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -133,6 +136,7 @@
 | [0169-majority-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/akshyat-i07/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/akshyat-i07/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/akshyat-i07/leetcode-problems/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/akshyat-i07/leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -173,6 +177,7 @@
 | [0190-reverse-bits](https://github.com/akshyat-i07/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akshyat-i07/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/akshyat-i07/leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/akshyat-i07/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Binary Search
@@ -181,6 +186,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshyat-i07/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akshyat-i07/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/akshyat-i07/leetcode-problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/akshyat-i07/leetcode-problems/tree/master/0704-binary-search) |
 ## Queue
 |  |
